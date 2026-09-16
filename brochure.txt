@@ -1,0 +1,7 @@
+Hotel Name: Paradise Hotel
+Location: Mumbai
+
+Menu:
+1. Paneer Tikka
+2. Veg Biryani
+3. Gulab Jamun
